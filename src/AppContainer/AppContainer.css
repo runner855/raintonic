@@ -1,0 +1,10 @@
+.app_container {
+  display: flex;
+  flex-direction: row;
+}
+
+.card_container {
+  margin: 2em;
+  border: solid 0.2em black;
+  border-radius: 0.8em;
+}
